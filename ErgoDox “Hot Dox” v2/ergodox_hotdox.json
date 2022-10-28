@@ -6,7 +6,7 @@
     [
       "KC_NO",
       "KC_PGDN",
-      "KC_ENT",
+      "KC_DEL",
       "KC_SPC",
       "KC_PGUP",
       "RGB_HUD",
